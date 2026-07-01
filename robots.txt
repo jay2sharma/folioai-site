@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jay2sharma.github.io/folioai-site/sitemap.xml
